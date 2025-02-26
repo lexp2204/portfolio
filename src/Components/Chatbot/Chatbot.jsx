@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useRef } from "react";
 import { useEffect } from "react";
 import "./Chatbot.css"
-import ChatForm from "../ChatForm/Chatform";
+import ChatForm from "../ChatForm/ChatForm";
 import ChatMessage from "../ChatMessage";
 
 export default function Chatbot(){
