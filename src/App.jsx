@@ -6,7 +6,7 @@ import MyWork from './Components/MyWork/MyWork'
 import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
 import Chatbot from './Components/Chatbot/Chatbot'
-import ChatForm from './Components/ChatForm/Chatform'
+
 
 export default function App() {
   return (
